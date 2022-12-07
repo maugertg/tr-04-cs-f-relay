@@ -1,0 +1,4 @@
+Authlib
+Flask
+marshmallow
+requests

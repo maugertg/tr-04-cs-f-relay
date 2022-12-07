@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+authlib = "*"
+flask = "*"
+marshmallow = "*"
+requests = "*"
+httpie = "*"
+crowdstrike-falconpy = "*"
+
+[dev-packages]
+black = "==22.10.0"
+
+[requires]
+python_version = "3.9"
