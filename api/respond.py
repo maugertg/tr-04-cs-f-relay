@@ -124,7 +124,7 @@ def respond_observables():
         {
             "api_action": "no_action",
             "ui_action": "No action",
-            "ui_description": "Block and show as detection",
+            "ui_description": "Save Indicator in IOC Management, but take no action",
         },
     ]
 
